@@ -1,4 +1,7 @@
 ### Olá, sou Paulo Alexandre. Seja bem-vindo! 👋
+<img align="center" alt="OctoCat" width="550" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1629725222996.png">
+
+
 <div>  
   <a href="https://www.linkedin.com/in/paulo-alexandre-da-silva-7b817632/">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Machitachi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
